@@ -145,6 +145,9 @@ website: crontab generator
 limitation: it will not check the code is changed or not.
 
 
+poll scm is better than cronjob
+
+
 POLL SCM: 
 in pollscm we will set time limit for the jobs.
 if dev commit the code it will wait until the time is done.
