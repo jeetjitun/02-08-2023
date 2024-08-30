@@ -145,7 +145,6 @@ website: crontab generator
 limitation: it will not check the code is changed or not.
 
 
-poll scm is better than cronjob
 
 
 POLL SCM: 
